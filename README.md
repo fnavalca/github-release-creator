@@ -11,14 +11,14 @@ I want to learn more about:
 streams...)
 - TDD: I have heard a lot about it but I have never used in a real project (only in trainings).
 - Gradle: I am used to Maven and I want to try an alternative to it.
-- AWS CI/CD platform (CodeBuild and CodePipeline): in my current job, we use all of these tools but I have never started
+- AWS (CodeBuild, CodePipeline and Lambda): in my current job, we use all of these tools but I have never started
  a project with this technology from scratch.
 - Git and GitHub: create a project from scratch, use Pull Request, best practices...
 - IntelliJ IDEA: why not? I am used to use in my work but I want to know more about it.
  
 ## Initial setup
 
-I chose Gradle as a build automation tool. I am using the version 5.2.1 because is installed directly from IntelliJ IDEA (Build #IC-193.5233.102).
+I have chosen Gradle as a build automation tool. The version chosen was 5.2.1 because was installed directly from IntelliJ IDEA (Build #IC-193.5233.102).
 After having set up the project, I have some files related with Gradle:
 
 - build.gradle: file with all project's configuration.
@@ -26,7 +26,7 @@ After having set up the project, I have some files related with Gradle:
 - gradlew.bat: similar to gradlew but for Windows.
 - setting.gradle: contains configuration for multi-project build [more info](https://www.baeldung.com/gradle-build-settings-properties)
 
-In order to install it, you can execute:
+In order to install it, you should execute:
 
 - UNIX systems:
 ```bash
@@ -37,7 +37,7 @@ or Windows systems:
 gradlew.bat
 ```
 
-Check that the installation was successful execute:
+Check that the installation was successful executing:
 
 ```bash
 ./gradlew --version
