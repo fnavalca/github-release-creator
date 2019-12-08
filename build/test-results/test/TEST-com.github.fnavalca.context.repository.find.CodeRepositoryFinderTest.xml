@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.fnavalca.context.repository.find.CodeRepositoryFinderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-08T21:00:59" hostname="Frans-MacBook-Pro.local" time="0.004">
+  <properties/>
+  <testcase name="should_find_a_code_repository" classname="com.github.fnavalca.context.repository.find.CodeRepositoryFinderTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
