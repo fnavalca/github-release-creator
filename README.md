@@ -46,3 +46,12 @@ or
 ```bash
 gradlew.bat --version
 ```
+
+## First feature
+
+This project will be in charge of manage GitHub releases. For this reason, the first feature to develop will be get info
+about a project.
+
+## Get info about a project
+
+Given the name of a project, we will get the information about it.
